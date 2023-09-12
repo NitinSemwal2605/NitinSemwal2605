@@ -1,8 +1,14 @@
-- 👋 Hi, I’m @NitinSemwal2614
-- 👀 I’m interested in Web Developments  ...
-- 🌱 I’m currently learning the Web Development and DSA ...
-- 💞️ I’m looking to collaborate on Web Development Projects ...
-- 📫 To reach me DM me instagram by @nitinsemwal_26 ...
+👋 Hi, I'm Nitin Semwal!
+
+I'm a passionate web developer on a journey of continuous learning and growth. Here's a bit about me:
+
+- 👀 I'm enthusiastic about all things related to web development.
+- 🌱 Currently, I'm sharpening my skills in web development and mastering Data Structures and Algorithms (DSA).
+- 💞️ I'm eager to collaborate on exciting web development projects that challenge and inspire.
+- 📫 You can connect with me on Instagram [@nitinsemwal_26](https://www.instagram.com/nitinsemwal_26) to discuss opportunities and ideas.
+
+
+Let's build the web together! 🚀
 
 <!---
 NitinSemwal2614/NitinSemwal2614 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
