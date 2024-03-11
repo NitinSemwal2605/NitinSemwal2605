@@ -7,6 +7,6 @@
 
 # 📊 GitHub Stats:
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=NitinSemwal2614 &theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=NitinSemwal2614&theme=radical)](https://git.io/streak-stats)
 
 ![](https://leetcard.NitinSemwal_26.cool/lapor?ext=heatmap)
