@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dhruv Singh Naruka</h1>
+<h1 align="center">Hi 👋, I'm Nitin Semwal</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
 
