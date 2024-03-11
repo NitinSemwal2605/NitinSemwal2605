@@ -16,4 +16,4 @@
 [![](https://visitcount.itsvg.in/api?id=NitinSemwal2614&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-![](https://leetcard.nitinsemwal_26.cool/lapor?ext=heatmap)
+![](https://leetcard.NitinSemwal_26.cool/lapor?ext=heatmap)
