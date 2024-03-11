@@ -8,12 +8,6 @@
 # 📊 GitHub Stats:
 ![Nitin's GitHub stats](https://github-readme-stats.vercel.app/api?username=NitinSemwal2614&show_icons=false&theme=radical)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=NitinSemwal2614)](https://git.io/streak-stats)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=NitinSemwal2614&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=NitinSemwal2614&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ![](https://leetcard.NitinSemwal_26.cool/lapor?ext=heatmap)
