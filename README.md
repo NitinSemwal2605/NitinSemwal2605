@@ -9,4 +9,4 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=NitinSemwal2614&theme=radical)](https://git.io/streak-stats)
 
-![](https://leetcard.jacoblin.cool/jacoblincool?cache=0)
+![](https://leetcard.NitinSemwal_26/jacoblincool?cache=0)
