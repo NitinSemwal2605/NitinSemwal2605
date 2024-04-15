@@ -2,11 +2,58 @@
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+## Languages, Tools and Technologies 🚀 
+<table>
+	<tr>
+	<td><strong>Programming Languages</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=cpp,py,c,r&theme=dark"></td>
+</tr>
+<tr>
+	<td><strong>Database Technologies</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=mysql,postgresql,mongodb&theme=dark"></td>
+</tr>
+<tr>
+	<td><strong>Frontend Development</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=html,css,js,react,nextjs" ></td>
+</tr>
+<tr>
+	<td><strong>Backend Development</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=nodejs,express,flask,postman&theme=dark"></td>
+</tr>
+<tr>
+	<td><strong>Cloud and Deployment</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=azure,aws,vercel&theme=dark"></td>
+</tr>
 
-# 📊 GitHub Stats:
+<tr>
+	<td><strong>Version Control</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=git,github&theme=dark"></td>
+</tr>
+<tr>
+	<td><strong>Design & UI</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=figma&theme=dark"></td>
+</tr>
+</table>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=NitinSemwal2614&theme=radical)](https://git.io/streak-stats)
+## Collaboration 🤝
 
-![](https://leetcard.NitinSemwal_26/jacoblincool?cache=0)
+I'm open to collaborating on projects related to my interests. If you have an exciting project or idea in mind, I'd love to hear about it! You can reach out to me through Email or LinkedIn.
+<hr>
+
+<div align = "center">
+<h3><b>Profile visits</b></h3>
+<img width = 25% src = "https://profile-counter.glitch.me/{NitinSemwal2614}/count.svg">
+	
+### Star 🌟 some of my repos if you like them!
+<hr>
+</div>
+
+## Contact 📫 
+
+To get in touch with me, please send an email to [55semwalnitin@gmail.com](mailto:55semwalnitin@gmail.com). I'll do my best to respond promptly.
+
+## Find Me on ✨LinkedIn✨
+
+You can find my LinkedIn profile here: [https://www.linkedin.com/in/nitin-semwal-aa09bb281/](https://www.linkedin.com/in/nitin-semwal-aa09bb281/). 
+
+Feel free to explore my repositories and contributions.
