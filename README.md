@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nitin Semwal</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
-<h3 align="center">Visit My Portfolio Website !! - https://nitinsemwal.vercel.app/  h3>
+<h3 align="center">Visit My Portfolio Website !! - https://nitinsemwal.vercel.app/  </h3>
 
 ## Languages, Tools and Technologies 🚀 
 <table>
