@@ -10,7 +10,7 @@
 </tr>
 <tr>
 	<td><strong>Database Technologies</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=mysql,postgresql,mongodb&theme=dark"></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=mysql,mongodb&theme=dark"></td>
 </tr>
 <tr>
 	<td><strong>Frontend Development</strong></td>
@@ -22,7 +22,7 @@
 </tr>
 <tr>
 	<td><strong>Cloud and Deployment</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=netlify,vercel&theme=dark"></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=netlify,vercel,Docker&theme=dark"></td>
 </tr>
 
 <tr>
