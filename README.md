@@ -6,7 +6,7 @@
 <table>
 	<tr>
 	<td><strong>Programming Languages</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=cpp,py,c&theme=dark"></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=cpp,JS,c&theme=dark"></td>
 </tr>
 <tr>
 	<td><strong>Database Technologies</strong></td>
