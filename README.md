@@ -6,7 +6,7 @@
 <table>
 	<tr>
 	<td><strong>Programming Languages</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=cpp,JS,c&theme=dark"></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=cpp,java,c&theme=dark"></td>
 </tr>
 <tr>
 	<td><strong>Database Technologies</strong></td>
@@ -22,12 +22,12 @@
 </tr>
 <tr>
 	<td><strong>Cloud and Deployment</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=netlify,vercel,Docker&theme=dark"></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=netlify,vercel,aws&theme=dark"></td>
 </tr>
 
 <tr>
 	<td><strong>Version Control</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=git,github&theme=dark"></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=git,github,kubernetes,docker&theme=dark"></td>
 </tr>
 <tr>
 	<td><strong>Design & UI</strong></td>
