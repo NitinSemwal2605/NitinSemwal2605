@@ -22,7 +22,7 @@
 </tr>
 <tr>
 	<td><strong>Cloud and Deployment</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=netlify,vercel,render,aws&theme=dark"></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=netlify,vercel,aws&theme=dark"></td>
 </tr>
 
 <tr>
@@ -31,7 +31,7 @@
 </tr>
 <tr>
 	<td><strong>Design & UI</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=figma&theme=dark"></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=figma,canva&theme=dark"></td>
 </tr>
 </table>
 
