@@ -18,7 +18,7 @@
 </tr>
 <tr>
 	<td><strong>Backend Development</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=nodejs,express,postman&theme=dark"></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=nodejs,express,thunderclient,postman&theme=dark"></td>
 </tr>
 <tr>
 	<td><strong>Cloud and Deployment</strong></td>
