@@ -14,7 +14,7 @@
 </tr>
 <tr>
 	<td><strong>Frontend Development</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=html,css,js,react,nextjs" ></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=html,css,js,react,nextjs,redux" ></td>
 </tr>
 <tr>
 	<td><strong>Backend Development</strong></td>
