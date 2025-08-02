@@ -1,59 +1,115 @@
 <h1 align="center">Hi 👋, I'm Nitin Semwal</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
-<h3 align="center">Visit My Portfolio Website !! - https://nitinsemwal.vercel.app/  </h3>
+<h3 align="center">🚀 A Passionate Full Stack Developer from India 🇮🇳</h3>
 
-## Languages, Tools and Technologies 🚀 
+<p align="center">
+  <a href="https://nitinsemwal.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐 Portfolio Website-000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="mailto:55semwalnitin@gmail.com">
+    <img src="https://img.shields.io/badge/📧 Email Me-55semwalnitin@gmail.com-blue?style=for-the-badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/nitin-semwal-aa09bb281/" target="_blank">
+    <img src="https://img.shields.io/badge/🔗 LinkedIn Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🧑‍💻 About Me
+
+- 🎓 Final-year Computer Science Engineering student
+- 🌱 Currently mastering Full Stack Web Development, DSA, and system design
+- 💡 Constantly learning new technologies and building real-world projects
+- 🛠️ Exploring the intersection of **software engineering**, **UI/UX**, and **cloud development**
+- 💬 Ask me about React, Node.js, MongoDB, or anything web-dev related!
+- ⚡ Fun Fact: I turn coffee ☕ into clean code 🧼
+
+---
+
+## 🚀 Tech Stack & Tools
+
 <table>
-	<tr>
-	<td><strong>Programming Languages</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=cpp,java,c&theme=dark"></td>
-</tr>
-<tr>
-	<td><strong>Database Technologies</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=mysql,mongodb&theme=dark"></td>
-</tr>
-<tr>
-	<td><strong>Frontend Development</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=html,css,js,react,nextjs,redux" ></td>
-</tr>
-<tr>
-	<td><strong>Backend Development</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=nodejs,express,postman&theme=dark"></td>
-</tr>
-<tr>
-	<td><strong>Cloud and Deployment</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=netlify,vercel,aws&theme=dark"></td>
-</tr>
-
-<tr>
-	<td><strong>Version Control</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=git,github,kubernetes,docker&theme=dark"></td>
-</tr>
-<tr>
-	<td><strong>Design & UI</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=figma,canva&theme=dark"></td>
-</tr>
+  <tr>
+    <td><strong>💻 Programming Languages</strong></td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=cpp,java,c&theme=dark"></td>
+  </tr>
+  <tr>
+    <td><strong>🗃️ Databases</strong></td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark"></td>
+  </tr>
+  <tr>
+    <td><strong>🌐 Frontend</strong></td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,redux"></td>
+  </tr>
+  <tr>
+    <td><strong>🧰 Backend</strong></td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=nodejs,express,postman&theme=dark"></td>
+  </tr>
+  <tr>
+    <td><strong>☁️ Cloud & Deployment</strong></td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=vercel,netlify,aws&theme=dark"></td>
+  </tr>
+  <tr>
+    <td><strong>🧬 DevOps & Tools</strong></td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=git,github,kubernetes,docker&theme=dark"></td>
+  </tr>
+  <tr>
+    <td><strong>🎨 UI/UX & Design</strong></td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=figma,canva&theme=dark"></td>
+  </tr>
 </table>
 
-## Collaboration 🤝
+---
 
-I'm open to collaborating on projects related to my interests. If you have an exciting project or idea in mind, I'd love to hear about it! You can reach out to me through Email or LinkedIn.
-<hr>
+## 💼 Featured Projects
 
-<div align = "center">
-<h3><b>Profile visits</b></h3>
-<img width = 25% src = "https://profile-counter.glitch.me/{NitinSemwal2614}/count.svg">
-	
-### Star 🌟 some of my repos if you like them!
-<hr>
-</div>
+| Project Name | Description | Tech Stack |
+|--------------|-------------|------------|
+| **Dressify** | A full-stack fashion e-commerce platform with secure Stripe payments, user login, admin panel, and product dashboard | React, MongoDB, Express, Node, Stripe |
+| **BatteryTrackr Passport** | Hackathon-winning EV Battery Health & Lifecycle Passport | MERN Stack, IoT APIs, Cloud Storage |
+| **VocabBuilder** | Goal-based vocabulary productivity app with AI-based grammar corrections and progress tracking | React, TailwindCSS, OpenAI, MongoDB, Node |
 
-## Contact 📫 
+> Explore all my repos 👉 [GitHub Repositories](https://github.com/NitinSemwal2614?tab=repositories)
 
-To get in touch with me, please send an email to [55semwalnitin@gmail.com](mailto:55semwalnitin@gmail.com). I'll do my best to respond promptly.
+---
 
-## Find Me on ✨LinkedIn✨
+## 🤝 Let’s Collaborate
 
-You can find my LinkedIn profile here: [https://www.linkedin.com/in/nitin-semwal-aa09bb281/](https://www.linkedin.com/in/nitin-semwal-aa09bb281/). 
+I'm always open to:
 
-Feel free to explore my repositories and contributions.
+- 🚀 Exciting hackathons or startup ideas
+- 💡 Open-source contributions
+- 🎯 Collaborating on impactful full-stack projects
+- 🧠 Knowledge sharing around DSA, system design, or frontend frameworks
+
+Drop me a message anytime — I'd love to connect!
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=NitinSemwal2614&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=NitinSemwal2614&theme=radical" />
+</p>
+<p align="center">
+  <img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NitinSemwal2614&theme=radical" />
+</p>
+
+---
+
+## 📈 Visitors Counter
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/NitinSemwal2614/count.svg" />
+</p>
+
+---
+
+## ✨ A Quote I Live By
+
+> *"Code is like poetry – it’s beautiful, expressive, and powerful when written well."*
+
+---
+
+### 🌟 If you like my work, don't forget to ⭐ my repos! Thanks for stopping by 😄
