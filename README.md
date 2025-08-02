@@ -29,7 +29,7 @@
 <table>
   <tr>
     <td><strong>💻 Languages</strong></td>
-    <td><img height="40" src="https://skillicons.dev/icons?i=cpp,java,c&theme=dark"></td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=cpp,java,c,js&theme=dark"></td>
   </tr>
   <tr>
     <td><strong>🗃️ Databases</strong></td>
