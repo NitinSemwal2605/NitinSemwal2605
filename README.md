@@ -3,7 +3,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+💻;MERN+Stack+Enthusiast+🚀;System+Design+Learner+📊;Open+Source+Contributor+🌍;Always+Learning+%26+Building+⚡" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+💻;MERN+Stack+Enthusiast+🚀;System+Design+Learner+📊;Open+Source+Contributor+🌍;Always+Learning+%26+Building+⚡" alt="Typing Animation" />
 </p>
 
 <!-- Badges -->
@@ -94,31 +94,10 @@
 
 ---
 
-## 📌 GitHub Highlights
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NitinSemwal2605&theme=midnight-purple&show_icons=true&hide=issues" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NitinSemwal2605&layout=compact&theme=midnight-purple" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NitinSemwal2605&theme=midnight-purple" width="48%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=NitinSemwal2605&theme=radical&no-frame=true&no-bg=true&row=1&column=6" width="48%" />
-</p>
+## 📌 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=NitinSemwal2605&theme=react-dark&hide_border=true&area=true" width="95%"/>
-</p>
-
----
-
-## 🎵 Fun Zone
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="90%" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NitinSemwal2605&label=Profile%20Views&color=ff69b4&style=flat" alt="Profile Views"/>
 </p>
 
 ---
