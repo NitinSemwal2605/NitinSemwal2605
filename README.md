@@ -5,7 +5,6 @@
 
 <h3 align="center">🚀 A Passionate Full Stack Developer from India 🇮🇳</h3>
 
--- Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+💻;MERN+Stack+Enthusiast+🚀;System+Design+Learner+📊;Open+Source+Contributor+🌍;Always+Learning+%26+Building+⚡" alt="Typing Animation" />
 </p>
