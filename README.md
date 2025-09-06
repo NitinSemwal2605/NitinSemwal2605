@@ -1,134 +1,79 @@
-<!-- Hero Section -->
+<!-- Banner -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/c8/b2/e0/c8b2e0b466dabc9d18a152751abc5744.gif" alt="Coding GIF" width="500"/>
+  <img src="https://i.pinimg.com/originals/c8/b2/e0/c8b2e0b466dabc9d18a152751abc5744.gif" alt="Coding Banner" width="600"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Nitin Semwal</h1>
-<h3 align="center">🚀 A Passionate Full Stack Developer from India 🇮🇳</h3>
+<h3 align="center">🚀 Full Stack Developer | MERN Enthusiast | System Design Learner</h3>
 
-<!-- Badges -->
+---
+
+## 🌌 Who am I?
+
+I’m a **final-year CSE undergraduate** who loves programming and the thrill of building impactful things.  
+I believe in **learning by doing** and pushing myself one project at a time.  
+
+- 💡 I enjoy turning ideas into working products that solve real-world problems.  
+- ⚡ My curiosity lies in the **MERN Stack**, **System Design**, and building scalable applications.  
+- 🌍 Open-source excites me — the idea of learning, sharing, and growing together with the community.  
+- 🎯 Beyond coding, I’m passionate about **trekking mountains, exploring nature, and sipping coffee while debugging**.  
+
+---
+
+## 🔥 What Drives Me
+
+- 🚀 The challenge of solving problems through code.  
+- 🧠 Constantly learning new technologies, especially in **Next.js, TypeScript, and Cyber Security**.  
+- 🎶 Music and creativity fuel my coding flow.  
+- 💬 Helping peers with **MERN & DSA fundamentals** keeps me sharp and connected.  
+
+---
+
+## 🛠️ Tech Arsenal
+
+💻 **Languages**: C++, Java, C, JavaScript, TypeScript  
+🌐 **Frontend**: React, Next.js, Redux, TailwindCSS, HTML, CSS  
+🧰 **Backend**: Node.js, Express, REST APIs  
+🗃️ **Databases**: MongoDB, MySQL  
+☁️ **Deployment**: Vercel, Netlify, AWS  
+⚙ **DevOps Tools**: Docker, Kubernetes, Git, GitHub, Jenkins  
+🎨 **Design Tools**: Figma, Canva  
+
+---
+
+## 🌟 Featured Projects
+
+- 🎽 **Dressify** → A full-featured **e-commerce platform** with cart, Stripe payments & authentication  
+- 💰 **CryptoFinder** → A **real-time crypto tracker** powered by CoinGecko API  
+- 🌦️ **MausamWiki** → A **weather forecast web app** using OpenWeather API & location-based UI  
+- 📚 **NoteBox** → Notes app with folders & markdown support *(Coming Soon)*  
+
+---
+
+## 🏆 Highlights
+
+- ✅ Built and deployed multiple **full-stack applications**  
+- ✅ Shortlisted for **SDE internships**  
+- ✅ Active in **hackathons & open-source contributions**  
+- ✅ Peer mentor for **MERN & DSA**  
+
+---
+
+## 📊 GitHub Activity
+
 <p align="center">
-  <a href="https://nitinsemwal.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="mailto:55semwalnitin@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/nitin-semwal-aa09bb281/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=NitinSemwal2605&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NitinSemwal2605&theme=tokyonight" height="160"/>
 </p>
-
----
-
-## 🧑‍💻 About Me
-- 🎓 Final-year CSE student | Full Stack Developer  
-- 💡 Passionate about building products that solve real-world problems  
-- 🔍 Focused on MERN Stack, API integrations, and scalable systems  
-- 📈 I believe in shipping fast, failing forward, and growing consistently  
-
----
-
-## 🛠️ Tech Stack
-
-<table>
-  <tr>
-    <td><strong>💻 Languages</strong></td>
-    <td><img height="40" src="https://skillicons.dev/icons?i=cpp,java,c,js,ts&theme=dark"></td>
-  </tr>
-  <tr>
-    <td><strong>🗃️ Databases</strong></td>
-    <td><img height="40" src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark"></td>
-  </tr>
-  <tr>
-    <td><strong>🌐 Frontend</strong></td>
-    <td><img height="40" src="https://skillicons.dev/icons?i=html,css,react,nextjs,redux,tailwind&theme=dark"></td>
-  </tr>
-  <tr>
-    <td><strong>🧰 Backend</strong></td>
-    <td><img height="40" src="https://skillicons.dev/icons?i=nodejs,express,postman&theme=dark"></td>
-  </tr>
-  <tr>
-    <td><strong>☁️ Deployment</strong></td>
-    <td><img height="40" src="https://skillicons.dev/icons?i=vercel,netlify,aws&theme=dark"></td>
-  </tr>
-  <tr>
-    <td><strong>🛠 DevOps</strong></td>
-    <td><img height="40" src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,jenkins&theme=dark"></td>
-  </tr>
-  <tr>
-    <td><strong>🎨 Design</strong></td>
-    <td><img height="40" src="https://skillicons.dev/icons?i=figma,canva&theme=dark"></td>
-  </tr>
-</table>
-
----
-
-## 🔥 Featured Projects
-
-| Name | Description | Tech Stack | Demo |
-|------|-------------|------------|------|
-| 🎽 Dressify | Full-featured e-commerce platform with product management, cart, Stripe payment, and auth system | React, MongoDB, Node, Express, Stripe | [Live Site](https://dressify-ecom.vercel.app/) |
-| 💰 CryptoFinder | Real-time crypto tracker with coin price, volume & market cap via CoinGecko API | React, Axios, Chart.js, Tailwind | [Live Site](https://crypto-finder.vercel.app/) |
-| 🌦️ MausamWiki | Weather forecast web app with OpenWeather API and location-based UI | React, Tailwind, OpenWeather API | [Live Site](https://mausamwiki.vercel.app/) |
-| 📚 NoteBox | Notes app with custom folder structure & markdown editor | MERN, Firebase Auth | Coming Soon |
-
----
-
-## 🏆 Achievements
-- ✅ Completed multiple **full-stack projects** deployed live  
-- ✅ Shortlisted for **top SDE internships**  
-- ✅ Actively contributing to **open-source** and hackathons  
-- ✅ Mentoring peers in **MERN & DSA fundamentals**  
-
----
-
-## 🎯 Goals & Focus Areas
-- Build production-grade MERN applications  
-- Learn **Next.js 14 & Server Actions**  
-- Explore **Clean Architecture & System Design**  
-- Contribute more to **open-source projects**  
-
----
-
-## 💡 Currently Exploring
-| Area | Why? |
-|------|------|
-| 🧠 System Design | Preparing for SDE interviews & backend optimization |
-| ⚛️ Next.js 14 | Latest Server Components & API routing |
-| 📊 TypeScript | Safer, scalable React codebases |
-| 🛡 Cyber Security | Studying Cyber Forensics & Safe Web Practices |
-
----
-
-## 📌 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NitinSemwal2605&theme=react-dark&hide_border=true&area=true" width="95%"/>
-</p>
-
----
-
-## 🧭 Work Principles
-- 💬 Communication First  
-- 🧩 Modular Codebase  
-- ⚙ Git for everything  
-- 📦 Build → Test → Deploy  
-- 🎯 Agile, Focused Sprints  
-
----
-
-## ⚡ Fun Facts
-- 🏔️ Love exploring mountains & trekking  
-- 🎶 Music helps me code better  
-- ☕ Coffee > Debugging stress  
 
 ---
 
 ## ☕ Let’s Connect
-- **Mail**: [55semwalnitin@gmail.com](mailto:55semwalnitin@gmail.com)  
-- **LinkedIn**: [linkedin.com/in/nitin-semwal-aa09bb281](https://www.linkedin.com/in/nitin-semwal-aa09bb281/)  
-- **Portfolio**: [nitinsemwal.vercel.app](https://nitinsemwal.vercel.app/)  
+
+- 📧 **Mail**: [55semwalnitin@gmail.com](mailto:55semwalnitin@gmail.com)  
+- 💼 **LinkedIn**: [linkedin.com/in/nitin-semwal-aa09bb281](https://www.linkedin.com/in/nitin-semwal-aa09bb281/)  
+- 🌐 **Portfolio**: [nitinsemwal.vercel.app](https://nitinsemwal.vercel.app/)  
 
 ---
 
-⭐ If you find my repositories useful, don’t forget to **star them**. Your support keeps me motivated!
+⭐ *If you find my repositories useful, don’t forget to star them — your support keeps me building!*  
