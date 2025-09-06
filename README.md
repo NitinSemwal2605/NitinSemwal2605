@@ -1,11 +1,10 @@
-<!-- Hero -->
-<h1 align="center">Hi 👋, I'm Nitin Semwal</h1>
-<h3 align="center">🚀 A Passionate Full Stack Developer from India 🇮🇳</h3>
-
+<!-- Hero Section -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+💻;MERN+Stack+Enthusiast+🚀;System+Design+Learner+📊;Open+Source+Contributor+🌍;Always+Learning+%26+Building+⚡" alt="Typing Animation" />
+  <img src="https://i.pinimg.com/originals/c8/b2/e0/c8b2e0b466dabc9d18a152751abc5744.gif" alt="Coding GIF" width="500"/>
 </p>
 
+<h1 align="center">Hi 👋, I'm Nitin Semwal</h1>
+<h3 align="center">🚀 A Passionate Full Stack Developer from India 🇮🇳</h3>
 
 <!-- Badges -->
 <p align="center">
