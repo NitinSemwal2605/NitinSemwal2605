@@ -53,9 +53,8 @@ I believe in **learning by doing** and pushing myself one project at a time.
 ## 🏆 Highlights
 
 - ✅ Built and deployed multiple **full-stack applications**  
-- ✅ Shortlisted for **SDE internships**  
 - ✅ Active in **hackathons & open-source contributions**  
-- ✅ Peer mentor for **MERN & DSA**  
+- ✅ Peer mentor for **MERN & DSA** 
 
 ---
 
