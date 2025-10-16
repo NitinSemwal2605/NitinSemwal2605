@@ -1,7 +1,6 @@
 <!-- Banner -->
 <h1 align="center">Hi 👋, I'm Nitin Semwal</h1>
-<h3 align="center">🚀 Full Stack Developer | MERN Enthusiast | System Design Learner</h3>
-
+<h3 align="center">🚀 Full Stack Developer | MERN Enthusiast | AI & ML Learner</h3>
 <p align="center">
   <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" alt="Coding Banner" width="600"/>
 </p>
