@@ -1,6 +1,6 @@
 <!-- Banner -->
 <h1 align="center">Hi 👋, I'm Nitin Semwal</h1>
-<h3 align="center">🚀 Full Stack Developer | MERN Enthusiast | AI & ML Learner</h3>
+<h3 align="center">🚀 Full Stack Developer | AI & ML Learner</h3>
 <p align="center">
   <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" alt="Coding Banner" width="600"/>
 </p>
@@ -22,7 +22,7 @@ I believe in **learning by doing** and pushing myself one project at a time.
 ## 🔥 What Drives Me
 
 - 🚀 The challenge of solving problems through code.  
-- 🧠 Constantly learning new technologies, especially in **Next.js, TypeScript, and Cyber Security**.  
+- 🧠 Constantly learning new technologies, especially in **Next.js, TypeScript, and AI-ML**.  
 - 🎶 Music and creativity fuel my coding flow.  
 - 💬 Helping peers with **MERN & DSA fundamentals** keeps me sharp and connected.  
 
@@ -30,12 +30,12 @@ I believe in **learning by doing** and pushing myself one project at a time.
 
 ## 🛠️ Tech Arsenal
 
-💻 **Languages**: C++, Java, C, JavaScript, TypeScript  
+💻 **Languages**: C++, Java, C, JavaScript  
 🌐 **Frontend**: React, Next.js, Redux, TailwindCSS, HTML, CSS  
 🧰 **Backend**: Node.js, Express, REST APIs  
-🗃️ **Databases**: MongoDB, MySQL  
+🗃️ **Databases**: MongoDB, MySQL , Supabase , PostgreSQL 
 ☁️ **Deployment**: Vercel, Netlify, AWS  
-⚙ **DevOps Tools**: Docker, Kubernetes, Git, GitHub, Jenkins  
+⚙ **DevOps Tools**: Docker, Git, GitHub  
 🎨 **Design Tools**: Figma, Canva  
 
 ---
@@ -43,9 +43,8 @@ I believe in **learning by doing** and pushing myself one project at a time.
 ## 🌟 Featured Projects
 
 - 🎽 **Dressify** → A full-featured **e-commerce platform** with cart, Stripe payments & authentication  
-- 💰 **CryptoFinder** → A **real-time crypto tracker** powered by CoinGecko API  
-- 🌦️ **MausamWiki** → A **weather forecast web app** using OpenWeather API & location-based UI  
-- 📚 **NoteBox** → Notes app with folders & markdown support *(Coming Soon)*  
+- 💰 **CryptoFinder** → A **real-time crypto tracker** powered by CoinGecko API
+- 📚 **NotesVault** → A **Production graded Notes Application** with folders & markdown support *(Coming Soon)*  
 
 ---
 
