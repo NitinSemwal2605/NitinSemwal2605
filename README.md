@@ -31,7 +31,6 @@ I believe in **learning by doing** and pushing myself one project at a time.
 ## 🛠️ Tech Arsenal
 
 💻 **Languages**: C++, Java, C, JavaScript ,Python
-
 🌐 **Frontend**: React, Next.js, Redux, TailwindCSS, HTML, CSS  
 🧰 **Backend**: Node.js, Express, REST APIs  
 🗃️ **Databases**: MongoDB, MySQL , Supabase , Firebase , DynamoDB 
