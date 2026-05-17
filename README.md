@@ -1,6 +1,6 @@
 <!-- Banner -->
 <h1 align="center">Hi 👋, I'm Nitin Semwal</h1>
-<h3 align="center">🚀 Full Stack Developer | AI & ML Learner</h3>
+<h3 align="center">🚀 Full Stack Developer </h3>
 <p align="center">
   <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" alt="Coding Banner" width="600"/>
 </p>
@@ -30,29 +30,14 @@ I believe in **learning by doing** and pushing myself one project at a time.
 
 ## 🛠️ Tech Arsenal
 
-💻 **Languages**: C++, Java, C, JavaScript  
+💻 **Languages**: C++, Java, C, JavaScript ,Pythoon
 🌐 **Frontend**: React, Next.js, Redux, TailwindCSS, HTML, CSS  
 🧰 **Backend**: Node.js, Express, REST APIs  
-🗃️ **Databases**: MongoDB, MySQL , Supabase , PostgreSQL 
-☁️ **Deployment**: Vercel, Netlify, AWS  
+🗃️ **Databases**: MongoDB, MySQL , Supabase , Firebase , DynamoDB 
+☁️ **Deployment**: Vercel, Netlify, AWS 
 ⚙ **DevOps Tools**: Docker, Git, GitHub  
 🎨 **Design Tools**: Figma, Canva  
 
----
-
-## 🌟 Featured Projects
-
-- 🎽 **Dressify** → A full-featured **e-commerce platform** with cart, Stripe payments & authentication  
-- 💰 **CryptoFinder** → A **real-time crypto tracker** powered by CoinGecko API
-- 📚 **NotesVault** → A **Production graded Notes Application** with folders & markdown support *(Coming Soon)*  
-
----
-
-## 🏆 Highlights
-
-- ✅ Built and deployed multiple **full-stack applications**  
-- ✅ Active in **hackathons & open-source contributions**  
-- ✅ Peer mentor for **MERN & DSA** 
 
 ---
 
