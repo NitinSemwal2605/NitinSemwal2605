@@ -1,6 +1,6 @@
 <!-- Banner -->
 <h1 align="center">Hi 👋, I'm Nitin Semwal</h1>
-<h3 align="center">🚀 Full Stack Developer </h3>
+<h3 align="center"> A Full Stack Developer </h3>
 <p align="center">
   <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" alt="Coding Banner" width="600"/>
 </p>
@@ -30,7 +30,8 @@ I believe in **learning by doing** and pushing myself one project at a time.
 
 ## 🛠️ Tech Arsenal
 
-💻 **Languages**: C++, Java, C, JavaScript ,Pythoon
+💻 **Languages**: C++, Java, C, JavaScript ,Python
+
 🌐 **Frontend**: React, Next.js, Redux, TailwindCSS, HTML, CSS  
 🧰 **Backend**: Node.js, Express, REST APIs  
 🗃️ **Databases**: MongoDB, MySQL , Supabase , Firebase , DynamoDB 
