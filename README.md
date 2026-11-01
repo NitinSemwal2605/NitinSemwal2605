@@ -1,61 +1,70 @@
-<!-- Banner -->
-<h1 align="center">Hi 👋, I'm Nitin Semwal</h1>
-<h3 align="center"> A Full Stack Developer </h3>
-<p align="center">
-  <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" alt="Coding Banner" width="600"/>
-</p>
+# Nitin Semwal
+
+> **Full Stack Developer · Backend & System Design**  
+> Recent CSE graduate focused on building scalable, fault-tolerant systems and production-grade architectures.
 
 ---
 
-## 🌌 Who am I?
+### `> whoami`
 
-I’m a **final-year CSE undergraduate** who loves programming and the thrill of building impactful things.  
-I believe in **learning by doing** and pushing myself one project at a time.  
-
-- 💡 I enjoy turning ideas into working products that solve real-world problems.  
-- ⚡ My curiosity lies in the **MERN Stack**, **System Design**, and building scalable applications.  
-- 🌍 Open-source excites me — the idea of learning, sharing, and growing together with the community.  
-- 🎯 Beyond coding, I’m passionate about **trekking mountains, exploring nature, and sipping coffee while debugging**.  
-
----
-
-## 🔥 What Drives Me
-
-- 🚀 The challenge of solving problems through code.  
-- 🧠 Constantly learning new technologies, especially in **Next.js, TypeScript, and AI-ML**.  
-- 🎶 Music and creativity fuel my coding flow.  
-- 💬 Helping peers with **MERN & DSA fundamentals** keeps me sharp and connected.  
+```js
+const nitin = {
+    role: "Full Stack Developer",
+    focus: ["Backend Engineering", "System Design", "Low-Level Design"],
+    currentlyBuilding: "Scalable backend systems and distributed architectures",
+    philosophy: "Write clean, robust code that scales reliably in production.",
+    stack: ["Node.js", "NestJS", "PostgreSQL", "Redis", "C++", "Next.js"]
+};
+```
 
 ---
 
-## 🛠️ Tech Arsenal
+### `> tech --list`
 
-💻 **Languages**: C++, Java, C, JavaScript ,Python
-🌐 **Frontend**: React, Next.js, Redux, TailwindCSS, HTML, CSS  
-🧰 **Backend**: Node.js, Express, REST APIs  
-🗃️ **Databases**: MongoDB, MySQL , Supabase , Firebase , DynamoDB 
-☁️ **Deployment**: Vercel, Netlify, AWS 
-⚙ **DevOps Tools**: Docker, Git, GitHub  
-🎨 **Design Tools**: Figma, Canva  
-
-
----
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NitinSemwal2605&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NitinSemwal2605&theme=tokyonight" height="160"/>
-</p>
+```
+LANGUAGES        C++ · Java · C · JavaScript · TypeScript · Python
+FRONTEND         React · Next.js · Redux · TailwindCSS · HTML · CSS
+BACKEND          Node.js · Express · NestJS · REST APIs
+DATABASES        MongoDB · PostgreSQL · MySQL · Redis · Supabase · Firebase · DynamoDB
+CLOUD & DEVOPS   AWS · Docker · Vercel · Netlify · Git · GitHub
+DESIGN           Figma · Canva
+```
 
 ---
 
-## ☕ Let’s Connect
+### `> projects --pinned`
 
-- 📧 **Mail**: [55semwalnitin@gmail.com](mailto:55semwalnitin@gmail.com)  
-- 💼 **LinkedIn**: [linkedin.com/in/nitin-semwal-aa09bb281](https://www.linkedin.com/in/nitin-semwal-aa09bb281/)  
-- 🌐 **Portfolio**: [nitinsemwal.vercel.app](https://nitinsemwal.vercel.app/)  
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h4>🤖 <a href="https://github.com/NitinSemwal2605/AI-Support-Agent">AI Support Agent</a></h4>
+      <p>Full-stack AI customer support agent powered by Groq's Llama 3.3 70B, PostgreSQL for persistent conversation state, Redis caching, and real-time markdown chat.</p>
+      <code>TypeScript</code> <code>PostgreSQL</code> <code>Redis</code>
+    </td>
+    <td width="33%" valign="top">
+      <h4>📋 <a href="https://github.com/NitinSemwal2605/ProjectOS">ProjectOS</a></h4>
+      <p>Scalable collaborative work management platform uniting task boards, real-time messaging, and file sharing with MongoDB and Redis.</p>
+      <code>JavaScript</code> <code>MongoDB</code> <code>Redis</code>
+    </td>
+    <td width="33%" valign="top">
+      <h4>🏗️ <a href="https://github.com/NitinSemwal2605/LLD-System-Design">LLD & System Design</a></h4>
+      <p>Comprehensive Low-Level Design repository covering OOP fundamentals, SOLID principles with edge-case rules, and design patterns in modern C++.</p>
+      <code>C++</code> <code>System Design</code>
+    </td>
+  </tr>
+</table>
 
 ---
 
-⭐ *If you find my repositories useful, don’t forget to star them — your support keeps me building!*  
+### `> status --watch`
+
+```
+FOCUS                    TARGET                                        PROGRESS
+───────────────────────────────────────────────────────────────────────────────
+Low-Level Design         OOP · SOLID · Clean Code Patterns             [██████████] 100%
+Design Patterns          Creational · Structural · Behavioral (C++)    [███████░░░]  70%
+Backend Architecture     NestJS · PostgreSQL · Redis · Async Queues    [████████░░]  80%
+System Design (HLD)      Distributed Caching · Scaling · Partitions    [████░░░░░░]  40%
+───────────────────────────────────────────────────────────────────────────────
+Current Sprint           Event-driven microservices & real-world LLD case studies
+```
